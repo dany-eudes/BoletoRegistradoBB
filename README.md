@@ -1,6 +1,10 @@
 # BoletoRegistradoBB
 Biblioteca PHP para gerar boleto registrado do Banco do Brasil
 
+# Comércio Eletrônico: Manual de Orientações Técnicas Versão 24.2
+## Abril de 2021 
+https://www.bb.com.br/docs/pub/emp/empl/dwn/Orientacoes.pdf
+
 ## Exemplo
 ```
 <?php
